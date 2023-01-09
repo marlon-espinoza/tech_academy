@@ -1,0 +1,8 @@
+{
+  "travels": [
+    {"id": 1, "image": null, "name": "Viaje a Cancún", "cost": 2000, "max": 5},
+    {"id": 2, "image": null, "name": "Viaje a Quito", "cost": 2000, "max": 5},
+    {"id": 3, "image": null, "name": "Viaje a Lima", "cost": 2000, "max": 5},
+    {"id": 4, "image": null, "name": "Viaje a Bogotá", "cost": 2000, "max": 5}
+  ]
+}
