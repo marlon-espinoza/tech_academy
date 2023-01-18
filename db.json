@@ -1,8 +1,8 @@
 {
   "travels": [
-    {"id": 1, "image": null, "name": "Viaje a Cancún", "cost": 2000, "max": 5},
-    {"id": 2, "image": null, "name": "Viaje a Quito", "cost": 2000, "max": 5},
-    {"id": 3, "image": null, "name": "Viaje a Lima", "cost": 2000, "max": 5},
-    {"id": 4, "image": null, "name": "Viaje a Bogotá", "cost": 2000, "max": 5}
+    {"id": 1, "image": "https://israelsilvamx.com/wp-content/uploads/2021/07/finanzasalviajar.jpg", "name": "Viaje a Cancún", "cost": 3500, "max": 5},
+    {"id": 2, "image": "https://lh6.googleusercontent.com/-vfoIs22T_vI/Uoe9ZLROBkI/AAAAAAAAqJ0/AoDRzzFuKf0/s660/quito-ecuador.jpg", "name": "Viaje a Quito", "cost": 650, "max": 5},
+    {"id": 3, "image": "https://www.peru.travel/Contenido/General/Imagen/es/643/1.1/lima-plaza-de-armas-consejos.jpg", "name": "Viaje a Lima", "cost": 1100, "max": 5},
+    {"id": 4, "image": "https://www.bogotaturismo.com/wp-content/uploads/2021/02/Bogota-1-800x400-1.jpg", "name": "Viaje a Bogotá", "cost": 1300, "max": 5}
   ]
 }
